@@ -1,0 +1,180 @@
+The Defence Research and Development Organisation (DRDO) is an agency under the Department of Defence Research and Development in the Ministry of Defence of the Government of India, charged with the military's research and development, headquartered in New Delhi, India. It was formed in 1958 by the merger of the Technical Development Establishment and the Directorate of Technical Development and Production of the Indian Ordnance Factories with the Defence Science Organisation under the administration of Jawaharlal Nehru. Subsequently, Defence Research & Development Service (DRDS) was constituted in 1979 as a service of Group 'A' Officers / Scientists directly under the administrative control of the Ministry of Defence.
+
+With a network of 52 laboratories that are engaged in developing defence technologies covering various fields like aeronautics, armaments, electronics, land combat engineering, life sciences, materials, missiles, and naval systems, DRDO is India's largest and most diverse research organisation. The organisation includes around 5,000 scientists belonging to the DRDS and about 25,000 other subordinate scientific, technical, and supporting personnel.[5][6]
+
+History
+The DRDO was established in 1958 by combining the Defence Science Organisation and some of the technical development establishments. A separate Department of Defence Research and Development was formed in 1980, which later administered DRDO and its almost 30 laboratories and establishments (there were almost 52 labs before merging). Most of the time, the Defence Research and Development Organisation was treated as if it were a vendor and the Army Headquarters or the Air Force Headquarters were the customers. Because the Army and the Air Force themselves did not have any design or construction responsibility, they tended to treat the designer or Indian industry at par with their corresponding designer in the world market. If they could get a MiG-21 from the world market, they wanted a MiG-21 from DRDO.[citation needed]
+
+Beginning in the 1970s, the Indian Air Force launched a covert effort to develop and indigenise ground-based radar systems to reduce reliance on foreign suppliers. Working alongside DRDO labs like LRDE, the IAF helped shape indigenous radar programs such as the Indra and Rohini series. This quiet but determined initiative laid the groundwork for India’s broader air defence modernisation.[7]
+
+DRDO started its first major project in surface-to-air missiles (SAM) known as Project Indigo in the 1960s. Indigo was discontinued in later years without achieving full success. Project Indigo led Project Devil, along with Project Valiant, to develop short-range SAM and ICBM in the 1970s. Project Devil itself led to the later development of the Prithvi missile under the Integrated Guided Missile Development Programme (IGMDP) in the 1980s. IGMDP was an Indian Ministry of Defence programme between the early 1980s and 2007 for the development of a comprehensive range of missiles, including the Agni missile, Prithvi ballistic missile, Akash missile, Trishul missile and Nag Missile. In 2010, the defence minister A. K. Antony ordered the restructuring of the DRDO to give a major boost to defence research in the country and to ensure effective participation of the private sector in defence technology. The key measures to make DRDO effective in its functioning include the establishment of a Defence Technology Commission with the defence minister as its chairman.[8][9] The programmes which were largely managed by DRDO have seen considerable success with many of the systems seeing rapid deployment as well as yielding significant technological benefits. Since its establishment, DRDO has created other major systems and critical technologies such as aircraft avionics, UAVs, small arms, artillery systems, EW Systems, tanks and armoured vehicles, sonar systems, command and control systems and missile systems.
+
+In 2024, DRDO tested India's first long-range hypersonic missile, that is able to carry conventional and nuclear warheads to a distance exceeding 1,500 km at a 3 km per second speed.[10] In June 2025, DRDO put forward an offer for 28 of its designed and developed weapon systems for emergency procurement to the Indian Armed Forces, which included various types of DRDO designed and developed missiles and ammunition.[11] DRDO also gave the names of the agencies that produce the 28 products from which the Indian Armed Forces can procure the weapon systems.[11] On August 23, 2025, DRDO successfully conducted the maiden flight test of the Integrated Air Defence Weapon System (IADWS) off the Odisha coast. This multi-layered air defence platform integrates indigenous components such as QRSAM, VSHORADS, and a Directed Energy Weapon.[12] On November 14, 2025, DRDO announced the development of new generation Man-portable Autonomous underwater vehicles (MP-AUVs) by the Naval Science & Technological Laboratory (NSTL), Visakhapatnam for mine countermeasure missions. The AUVs are equipped with Side Scan Sonar and Under Water cameras as primary payloads for real-time detection & classification of Mine-Like Objects.[13][14]
+
+Plans for reforms
+The Government of India has plans to overhaul and reform DRDO, and a committee was formed in 2023[15] to suggest reforms and overhauls.[16][17] The 9-member committee, which was under the Prime Minister’s Office (PMO), was led by former Principal Scientific Adviser to the Government of India, K. Vijayraghavan. The committee submitted its report on the reforms for DRDO in July 2024.[18] Reportedly, the recommendations from the committee have been described as contentious and it was also reported that the DRDO has agreed to implement approximately 60% of the major reforms.[18] As of October 2024, the implementation of structural reforms has been delayed due to opposition from senior DRDO officials.[16]
+
+DRDO 2.0
+Under the new strategy known as DRDO 2.0, which aims to prepare India for the next era of warfare, DRDO is shifting its focus from the development of conventional weapons to next-generation technologies like directed energy weapons, photonics, quantum systems, and artificial intelligence, according to Director General for Electronics & Communication Systems Dr. B.K. Das. While DRDO remains committed in a limited capacity, offering 10 to 20 percent support, it is turning over most of the development and manufacturing of conventional systems to the private sector from 2025. While allowing industrial partners to increase production, DRDO will focus on long-term strategic research.[19]
+
+Organisation
+Cluster Laboratories/Establishments
+Source[20]
+Laboratory Name	Location	Area of Research
+Advanced Systems Laboratory (ASL)	Hyderabad, Telangana	Missiles & Strategic Systems
+Aerial Delivery Research & Development Establishment (ADRDE)	Agra, Uttar Pradesh	Parachutes & Aerial Systems
+Aeronautical Development Establishment (ADE)	Bengaluru, Karnataka	Aeronautics
+Aeronautical Test Range (ATR)	Chitradurga, Karnataka	Unmanned & Manned Aircraft
+Armaments Research & Development Establishment (ARDE)	Pune, Maharashtra	Armaments
+Centre for Airborne Systems (CAbS)	Bengaluru, Karnataka	Air-Borne Systems
+Centre for Artificial Intelligence & Robotics (CAIR)	Artificial Intelligence & Robotics
+Centre for Fire, Explosives & Environment Safety (CFEES)	Delhi, National Capital Territory of Delhi	Explosives
+Centre for High Energy Systems and Sciences (CHESS)	Hyderabad, Telangana	High Energy Weapons
+Combat Vehicles Research & Development Establishment (CVRDE)	Chennai, Tamil Nadu	Combat Vehicles
+Combat Aircraft Systems Development & Integration Centre	Bengaluru, Karnataka	Avionics
+Defence Bio-engineering & Electro-medical Laboratory (DeBEL)	Bio-engineering
+Defence Electronics Applications Laboratory (DEAL)	Dehradun, Uttarakhand	Electronics & Communication Systems
+Defence Food Research Laboratory (DFRL)	Mysuru, Karnataka	Food Research
+Defence Institute of Bio-Energy Research (DIBER)	Haldwani, Uttarakhand	Bio-Energy
+Defence Institute of High Altitude Research (DIHAR)	Leh, Ladakh	High Altitude Agro-animal Research
+Defence Institute of Physiology & Allied Sciences (DIPAS)	Delhi, National Capital Territory of Delhi	Physiological and Biomedical Research
+Defence Institute of Psychological Research (DIPR)	Psychological Research
+Defence Laboratory (DL)	Jodhpur, Rajasthan	Camouflaging and Isotopes
+Defence Electronics Research Laboratory (DLRL)	Hyderabad, Telangana	Electronic Warfare
+Defence Materials & Stores Research & Development Establishment (DMSRDE)	Kanpur, Uttar Pradesh	Textiles, Polymers & Composites
+Defence Metallurgical Research Laboratory (DMRL)	Hyderabad, Telangana	Metallurgy
+Defence Research & Development Establishment (DRDE)	Gwalior, Madhya Pradesh	Chemical & Biological Warfare
+Defence Research & Development Laboratory (DRDL)	Hyderabad, Telangana	Missile & Strategic Systems
+Defence Research Laboratory (DRL)	Tezpur, Assam	Health & Hygiene
+Defence Terrain Research Laboratory (DTRL)	Delhi, National Capital Territory of Delhi	Terrain Research
+Gas Turbine Research Establishment (GTRE)	Bengaluru, Karnataka	Gas Turbine
+High Energy Materials Research Laboratory (HEMRL)	Pune, Maharashtra	High Energy Materials, Explosive
+Institute of Nuclear Medicines & Allied Sciences (INMAS)	Delhi, National Capital Territory of Delhi	Nuclear Medicine
+Instruments Research & Development Establishment (IRDE)	Dehradun, Uttarakhand	Electronics & Optical Systems
+Integrated Test Range (ITR)	Balasore, Odisha	Missile & Strategic Systems
+Joint Cipher Bureau (JCB)	Delhi, National Capital Territory of Delhi	Cryptanalysis
+Electronics & Radar Development Establishment (LRDE)	Bengaluru, Karnataka	Radars
+Centre for Military Airworthiness and Certification (CeMilAC)	Air-worthiness and Certification
+Naval Materials Research Laboratory (NMRL)	Ambarnath, Maharashtra	Naval Materials
+Naval Physical & Oceanographic Laboratory (NPOL)	Kochi, Kerala	Sonar Systems
+Naval Science & Technological Laboratory (NSTL)	Visakhapatnam, Andhra Pradesh	Underwater Weapons
+Programme Air Defence (PGAD)	Hyderabad, Telangana	Missiles & Strategic Systems
+Proof and Experimental Establishment (PXE)	Balasore, Odisha	Armament Testing
+Research Centre Imarat (RCI)	Hyderabad, Telangana	Missile & Strategic Systems
+Research & Development Establishment (Engineers) (R&DE(E))	Pune, Maharashtra	Engineering Systems & Weapon Platforms
+Scientific Analysis Group (SAG)	Delhi	Communications Security
+Snow and Avalanche Study Establishment (SASE)	Chandigarh, Union Territory of Chandigarh	Snow and Avalanche
+Solid State Physics Laboratory (SSPL)	Delhi, National Capital Territory of Delhi	Solid State Materials, Devices and Sub-systems
+Society for Integrated Circuit Technology and Applied Research (SITAR)	Bengaluru, Karnataka & Hyderabad, Telangana	Semiconductor, Microelectromechanical Systems
+Terminal Ballistics Research Laboratory (TBRL)	Chandigarh, Union Territory of Chandigarh	Ballistics
+Vehicles Research & Development Establishment (VRDE)	Ahmednagar, Maharashtra	Wheeled Vehicles
+As part of the rationalization plan, the Defence Terrain Research Laboratory (DTRL) was merged with the Snow and Avalanche Studies Establishment (SASE) which was renamed into the Defence Geological Research Establishment (DGRE). As of 2020, the Advanced Numerical Research and Analysis Group (ANURAG) and Laser Science and Technology Center (LASTEC) are no longer functional as independent entities. The staff are relocated to various DRDO labs in Hyderabad.[21] DRDO is planning to build a new research lab in Lucknow.[22]
+
+Source[23]
+Laboratory Name	Location	Area of Research
+DRDO Young Scientist Laboratories	Bengaluru, Karnataka	Artificial Intelligence
+Kolkata, West Bengal	Asymmetric Technologies
+Chennai, Tamil Nadu	Cognitive Technologies
+Mumbai, Maharashtra	Quantum Technology
+Hyderabad, Telangana	Smart Materials
+HR Institutions
+Source[20]
+Institution Name	Location	Area
+Centre for Personnel Talent Management (CEPTAM)	Delhi, National Capital Territory of Delhi	Talent Management
+Institute of Technology Management (ITM)	Mussoorie, Uttarakhand	Technology Management
+Recruitment and Assessment Centre (RAC)	Delhi, National Capital Territory of Delhi	Human Resource
+Other Institutions
+Source[20]
+Institution Name	Location	Area of Research
+Advanced Centre for Energetic Materials (ACEM)	Nashik, Maharashtra	High Energy Materials
+Centre for Advanced Systems (CAS)	Hyderabad, Telangana	Advanced Systems
+Defence Scientific Information & Documentation Centre (DeSIDoC)	Delhi, National Capital Territory of Delhi	Information System and Documentation
+DRDO Integration Centre (DIC)	Panagarh, West Bengal	Systems Integration
+Institute for Systems Studies & Analyses (ISSA)	Delhi, National Capital Territory of Delhi	Systems Analysis
+Mobile Systems Complex (MSC)	Pune, Maharashtra	Missile Systems
+SF Complex (SFC)	Jagdalpur, Chhattisgarh	Propellant
+Centres of Excellence
+Source[20]
+Center Name	Location	Area of Research
+DRDO Bharathiar University (DRDO-BU), Centre of Excellence	Coimbatore, Tamil Nadu	Applied Psychology, Toxicology, Biological Sensors, Fuel Cell
+Advanced Centre for Research in High Energy Materials (ACRHEM)	Hyderabad, Telangana	Photonics, Material Science, High Energy Materials
+Centre of Excellence in Cryptology	Kolkata, West Bengal	Cryptology
+Centre of Millimeter Wave Semiconductor Devices and Systems	Kolkata, West Bengal	Millimeter Wave and Semiconductor
+Advanced Centre for Excellence on Composite Materials (ACECM)	Bengaluru, Karnataka	Composite Materials
+Research and Innovation Centre (RIC)	Chennai, Tamil Nadu	Sensors and Microelectromechanical Systems
+Centre of Propulsion Technology (CoPT)	Mumbai, Maharashtra	Propulsion Technology
+Jagdish Chandra Bose Centre for Advanced Technology (JCBCAT)	Kolkata, West Bengal	Directed Energy Technologies, Robotics, Cognitive Technologies
+DRDO-Industry-Academia Center of Excellence (DIA-CoE), IIT Delhi (previously Joint Advanced Technology Centre)[24]	Delhi, National Capital Territory of Delhi	Advanced Ballistics and Protection, Advanced Electromagnetic Devices and Terahertz technologies, Brain Computer Interface and Brain Machine Intelligence, Photonic Technologies, Plasmonics, Laser and Quantum Photonics, and Smart & Intelligent Textile Technologies.[25]
+Centre of Excellence in Systems Design and Engineering	Mumbai, Maharashtra	Systems Design
+North East Science and Technology Centre (NESTC)	Aizawl, Mizoram	Microelectromechanical Systems, Sensors, Degenerative Disease, Toxicology
+Kalam Centre for Science and Technology (KCST)	Jammu, Jammu and Kashmir	Computational System Security, Sensors
+DRDO-Industry-Academia Center of Excellence (DIA-CoE), IIT Jodhpur	Jodhpur, Rajasthan	Desert Warfare Technologies, Futuristic Omni Mobile System, Artificial Intelligence in Information and War gaming[26]
+DRDO-Industry-Academia Center of Excellence (DIA-CoE), IIT Kanpur	Kanpur, Uttar Pradesh	Advanced Nanomaterials, Accelerated Material Design and Development, High Energy Materials, Biological engineering[27]
+Projects
+See also: Projects of DRDO
+Technology Development Fund (TDF) Scheme
+The Technology Development Fund (TDF) Scheme is a Ministry of Defence programme administered by the DRDO for supporting companies, with a focus on micro, small and medium enterprises (MSMEs) and startups, in developing defence technologies.[28] As of December 2024, 79 TDF projects have been sanctioned to various industrial partners for developing defence technologies.[28]
+
+On 11 December 2024, under TDF, the iBooster Green Propulsion System was handed over to the DRDO by Manastu Space Technologies, based at IIT Bombay. For crucial satellite functions including orbit raising, orbital station-keeping, and deorbiting, the iBooster system—which is intended for spacecraft weighing between 100 and 500 kg—will be employed. Unlike hydrazine, it uses a patented hydrogen peroxide-based fuel that is safer, more affordable, and less harmful to the environment. The high-temperature catalyst in iBooster ensures smooth ignition, and the thruster design has been tuned for increased efficiency.[29][30] A green propulsion system, developed by the TDF, was successfully demonstrated in orbit on a launched payload aboard PSLV-C58.[31]
+
+Industry linkages, technology transfer and indigenisation
+See also: Defence industry of India, Federation of Indian Chambers of Commerce & Industry, Make in India, Startup India, and Indigenous Defence Equipment Exporters Association
+India domestically produces only 45% to 50% of defence products it uses, and the rest are imported.[32] To become technology research and production leader, reduce reliance on the imports and increase self-reliance, DRDO Chief called for more collaboration with the industry, private sector, research and education institutes including IITs and NITs.[32] India's military–industrial complex has had little success and only recently private sector was allowed to enter the defence production.[33] To expedite the development cycle of new technologies and to better fit the end user requirements, army has asked DRDO to take more army staff on deputation to be part of DRDO technology development project teams.[34]
+
+Indian forces are using numerous indigenous technologies produced by the DRDO, including Varunastra, Maareech, Ushus, and TAL by the navy; Electronic Warfare Technologies, radars, composite materials for LCA, AEW&C, Astra, and LCA Tejas by airforce; and ASAT, BrahMos, ASTRA, Nag missile, SAAW, Arjun MBT Mk 1A, 46-metre Modular Bridge, MPR, LLTR Ashwin by the army.[35] In September 2019, DRDO formulated the "DRDO Policy and Procedures for Transfer of Technology" and released information on "DRDO-Industry Partnership: Synergy and Growth and DRDO Products with Potential for Export".[35]
+
+During the Vibrant Goa Global Expo and Summit 2019 in October, DRDO signed technology transfer contracts with 16 Indian companies, including 3 startups, to produce products for use by the Indian Armed Forces.[36] This included high shelf life, high nutrition, ready-to-eat on-the-go food products to be consumed in the difficult terrain and bad weather.[36] DRDO and ISRO have agreed to collaborate in India's crewed orbital spacecraft project called Gaganyaan during which DRDOs various laboratories will tailor their defence capabilities to suit the needs of ISRO's human space mission with critical human-centric systems and technologies like space grade food, crew healthcare, radiation measurement and protection, parachutes for the safe recovery of the crew module and fire suppression system etc.[37] Kalyani Group is developing the Advanced Towed Artillery Gun System.[37]
+
+DRDO with the Federation of Indian Chambers of Commerce & Industry (FICCI), under the Advance Assessment Technology and Commercialisation Programme, is helping Lakes and Waterways Development Authority (LAWDA) to keep Dal Lake clean by providing low cost biodigesters for the treatment of human excreta, animal waste disposal, grey water and kitchen waste release that works fine in ambient as well as sub zero temperature which are also supplied to Indian Railways.[38][39]
+
+Defence Research and Development Establishment (DRDE) which works in the field of chemical weapon, biological agent detection and research is helping Indian Council of Medical Research (ICMR) in augmenting diagnostic capability for COVID-19 outbreak. It has created special hand sanitiser formulation and diagnostic kits following WHO standards and guidelines that are supplied in large numbers to civilian and defence officials.[40][41] Medical staff all over India dealing with Coronavirus contamination are using protective waterproof clothing with special sealant used in submarine applications developed by Institute of Nuclear Medicine and Allied Sciences (INMAS) for CBRN defence that is made up of high strength polyester coated with breathable polymer.[42] The clothing underwent successful trials at the South India Textile Research Association and exceeds the criteria of currently available suits in the market.[43] The suit is washable, passed all critical CBRN and ASTM standards and is now manufactured by two private players, Venus Industries from Mumbai and IMTEC from Kolkata.[44] Defence Bioengineering and Electromedical Laboratory (DEBEL) developed causality evacuation bag for COVID-19 infected patients that can withstand Chemical, Biological, Radiological and Nuclear (CBRN) environments and is protected against blood and viral penetration. The bag is made up of durable water-repellent nonwoven fabric. It is rigid and cylindrical with air and waterproof zippers and ventilators. Already ordered 500 in numbers, DRDO will now transfer the technology to the private sector for manufacturing.[45]
+
+Under the Society for Biomedical Technology (SBMT) programme, DEBEL has developed five-layer nanomesh based N99 masks and is collaborating with Mysore-based Skanray Technologies for the production of ventilators using currently available technologies with Indian made parts due to unavailability of imports. It is also working on a new multiplexed ventilator technology that will be able to support several infected individuals on a single ventilator. The prototype development stage is complete and the initial model is now undergoing various improvements suggested by a team of medical researchers and doctors.[46] The technology will finally be transferred to Tata Motors, Mahindra and Mahindra, Hyundai Motor India, Honda Cars India and Maruti Suzuki for immediate mass production.[47][48] DRDO signed agreement with Indian Telephone Industries Limited for tech transfer on low cost multiplexed ventilator technology with 80% to 90% of components are now make in India.[49]
+
+DRDO as of 11 April 2020 transferred technologies to 30 major companies to manufacture various non-medicine products against the COVID-19 pandemic which includes ventilators, sanitizer, personal protective equipment, face shield and isolation shelters. The technology for the newly developed multiplexed ventilator came from the onboard oxygen generation system (OBOGS) developed for HAL Tejas. Private sector players like Raksha Polycoats and Accurate Savan Defence are now producing protective clothing, isolation shelters based on DRDO tech developed for high altitude pulmonary edema (HAPE) bags, submarine escape the suit and satellite recovery systems. Hyderabad-based 3D printing startup iMake with Modern Manufacturers and Kirat Mechanical Engineering from Chandigarh, Wipro 3D from Bengaluru and Global Healthcare from Delhi are 3D printing visor-based face shields which is an offshoot of the tech developed for high-altitude military parachuting. Setco from Mumbai is producing sealants developed for submarines of Indian Navy at DRDO labs for personal protection equipment.[50]
+
+Research Centre Imarat (RCI) and Terminal Ballistics Research Laboratory (TBRL) developed a product called Aerosol Containment Box for enclosure of intubation procedure made with Poly(methyl methacrylate). It is cubical designed for both adults and minors and covers the COVID-19-infected patients during medical examination and treatment from head to chest to stop the transmission of droplets containing the virus to others. Employees' State Insurance Corporation Medical College, Hyderabad helped RCI in prototype development while Postgraduate Institute of Medical Education and Research helped in testing, validation and acceptance of products for medical use. The technology is now transferred to private industries located in Chandigarh and Hyderabad for mass manufacturing.[51] RCI at DRDO Missile Complex, Hyderabad is now supplying technology of brushless DC motors (BLDC) used for missile actuators and high response solenoid valves used in missile control for ventilator pumps that validated the prototype testing stages.[52]
+
+The Centre for Fire, Explosive and Environment Safety (CFEES) developed two sanitising equipment of 50 litres tank capacity consisting of a portable backpack type that covers an area of 300 metres while another trolley mounted for large area sanitisation of up to 3000 metres by spraying 1% hypochlorite solution.[53]
+
+Vehicle Research and Development Establishment (VRDE) developed a portable disinfection chamber and special face protection mask for health professional combating the COVID-19 outbreak in India. The personnel decontamination system is equipped with a sanitiser and soap dispenser. The full-body decontamination starts using for pedal with an electrically operated pump creating a disinfectant mist of 700-litre of hypo sodium chloride. The system takes 25 seconds for full decontamination with an automatic shut-off procedure and can decontaminate 650 personnel until the next refill. The face mask developed for COVID-19 patients uses the A4 size Over-Head Projection (OHP) film for protection and lightweight materials for long duration comfortable use.[54] VRDE developed full-body decontamination chamber was designed and validated within 4 days with All India Institute of Medical Sciences, New Delhi became the first premier institution to use it. The mass manufacturing of the portable decontamination chamber is now done by Dass Hitachi Limited.[55]
+
+In 2024, 950 transfer of technologies (ToT) of DRDO-developed systems to Indian companies took place, out of which 256 licensing agreements for ToTs were also signed with Indian companies.[31]
+
+Development cum Production Partner programme
+In order to incorporate private enterprises from the very beginning of design and development and promote smoother manufacturing once systems are ready, DRDO has implemented Development cum Production Partner programme (DcPP).[19] As part of Make In India and Atmanirbhar Bharat, DRDO under DcPP allowed handholding of domestic private sector industries to improve their development and production cycle of complex defence systems.
+
+VL-SRSAM and Advanced Towed Artillery Gun System became some of the successful projects of this programme.[56] In 2021, DcPP led to private sector participation for the VL-SRSAM, which was one of the first missile programmes that allowed private sector particaption.[57]
+
+Hindustan Aeronautics Limited on 17 December 2021, secured an order for manufacturing, assembly, integration, testing and supply of DRDO Abhyas from Aeronautical Development Establishment. The order will be completed under DcPP with a private sector industry.[58]
+
+On 16 December 2021, Ashok Leyland signed partnership agreement with Combat Vehicles Research and Development Establishment to develop 600  hp engine for Future Combat Vehicle Programme.[59] Instruments Research and Development Establishment on 27 December 2021 transferred technologies for developing border surveillance system to Indian private sector company Paras Defence and Space. The system consists of radar, and electro-optical sensors mounted on a pan tilt platform.[60] On 28 December 2021, Defence Institute of Physiology and Allied Sciences transferred technology to manufacture extreme cold weather clothing system to RHD Business Services, SBNX Innovation, Shiva Texyarn Limited, Kusumgar Corporates and Ginni Filaments Limited.[61]
+
+DRDO on 8 January 2024 launched Ugram, an assault rifle chambered in 7.62x51mm NATO, which has been designed, developed and manufactured in collaboration with Dvipa Armour India Private Limited under DcPP.[62] It's scheduled to be tested by the Indian Army.[63] NASM-SR is manufactured by Adani Defence & Aerospace under DcPP.[64][65] Larsen & Toubro is producing the Zorawar light tank under the DRDO's DcPP.[66] L&T is manufacturing integrated life-support system-onboard oxygen generation system (ILSS-OBOGS) for aircraft such as HAL Tejas, HAL Tejas Mk2 from the Defence Bioengineering and Electromedical Laboratory under DcPP.[67]
+
+In June 2025, Reliance Infrastructure become India's first private sector company to design and develop four categories of a next generation 155mm artillery ammunition, under the DcPP with Armament Research and Development Establishment.[68]
+
+Heads of DRDO
+List of Director Generals (1948–2015) and Chairmen (since 2015) of DRDO.[69]
+
+S.No	Name	Assumed office	Left office	Notes
+Director General DRDO
+1	Daulat Singh Kothari	1948	1961	First DG and longest serving head of DRDO.
+2	Suri Bhagavantam	1961	1969	
+3	B. D. Nag Chaudhuri	1970	1974	Later Vice Chancellor of Jawaharlal Nehru University.
+4	M. G. K. Menon	1974	1978	Later Minister of State for Earth Sciences.
+5	Raja Ramanna	1978	1982	Later Minister of State for Defence.
+6	V. S. R. Arunachalam	1982	1992	
+7	A. P. J. Abdul Kalam	1992	1999	Later President of India.
+8	V. K. Aatre	1999	2004	
+9	M. Natarajan	2004	2009	
+10	V. K. Saraswat	2009	2013	Current Member of NITI Aayog.
+11	Avinash Chander	2013	2015	
+Chairman DRDO
+12	S. Christopher	2015	2018	
+13	G.Satheesh Reddy	2018	2022	
+14	Samir V. Kamat	2022	Present	[70]
+Exchequer savings
+In its Fifteenth Report, which was delivered to Parliament in December 2025, the Standing Committee on Defence recognized DRDO for making significant savings through domestic research and for making advances in next-generation defense technologies. The Committee observed that DRDO has made progress in the development of hypersonic technologies and missiles, citing Recommendation No. 17 of the report.
+
+The panel noted that savings totaling ₹264,156 crore (US$31 billion) had been made possible by DRDO's indigenous research programs over the past five years starting in 2020. The General Defence Budget, Border Roads Organization, Indian Coast Guard, Defence Estates Organization, welfare of ex-servicemen, and DRDO are among the topics covered in the Fifteenth Report of the Standing Committee on Defence (2025–2026), which examines the union government's response to the observations and recommendations in the previous Committee's Seventh Report.[71]

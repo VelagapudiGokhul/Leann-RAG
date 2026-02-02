@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Output files
+*.xlsx
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*.leann
+gpu.py
+
